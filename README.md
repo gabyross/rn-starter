@@ -6,7 +6,7 @@ React project
 - Download the zip project and extract all into a folder (be sure you know where is saved because we are going to come back).
 - Open you folder and the project with your code editor.
 - Open your terminal and in the projects directory run `npm install`, this will install all dependencies needed.
-- Then you can run `npm start` to open expo a look every projects' screen or run an emulator
+- Then you can run `npm start` to open expo and look every screen, or you can run an emulator
 - That's it! :)
 
 Btw, you may wanna check what this screen does and how they work... here below are some of them in case you want to take a look:
