@@ -9,7 +9,17 @@ React project
 - Then you can run `npm start` to open expo and look every screen, or you can run an emulator
 - That's it! :)
 
-Btw, you may wanna check what this screen does and how they work... here below are some of them in case you want to take a look:
+# Screens:
+Btw, you may wanna check what this screen does and how they work... here below are some of them in case you want to take a look:  
+[Home](https://github.com/gabyross/rn-starter/blob/main/README.md)
+[Component](https://github.com/gabyross/rn-starter/blob/main/README.md)
+[List](https://github.com/gabyross/rn-starter/blob/main/README.md)
+[Counter](https://github.com/gabyross/rn-starter/blob/main/README.md)
+[Image](https://github.com/gabyross/rn-starter/blob/main/README.md)
+[Color](https://github.com/gabyross/rn-starter/blob/main/README.md)
+[Square](https://github.com/gabyross/rn-starter/blob/main/README.md)
+[Box](https://github.com/gabyross/rn-starter/blob/main/README.md)
+[Text](https://github.com/gabyross/rn-starter/blob/main/README.md)  
 
 # Home Screen:
 
