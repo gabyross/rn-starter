@@ -11,15 +11,15 @@ React project
 
 # Screens:
 Btw, you may wanna check what this screen does and how they work... here below are some of them in case you want to take a look:  
-[Home](https://github.com/gabyross/rn-starter/blob/main/README.md)
-[Component](https://github.com/gabyross/rn-starter/blob/main/README.md)
-[List](https://github.com/gabyross/rn-starter/blob/main/README.md)
-[Counter](https://github.com/gabyross/rn-starter/blob/main/README.md)
-[Image](https://github.com/gabyross/rn-starter/blob/main/README.md)
-[Color](https://github.com/gabyross/rn-starter/blob/main/README.md)
-[Square](https://github.com/gabyross/rn-starter/blob/main/README.md)
-[Box](https://github.com/gabyross/rn-starter/blob/main/README.md)
-[Text](https://github.com/gabyross/rn-starter/blob/main/README.md)  
+[Home](https://github.com/gabyross/rn-starter/blob/main/README.md#home-screen)
+[Component](https://github.com/gabyross/rn-starter/blob/main/README.md#component-screen)
+[List](https://github.com/gabyross/rn-starter/blob/main/README.md#list-screen)
+[Counter](https://github.com/gabyross/rn-starter/blob/main/README.md#counter-screen)
+[Image](https://github.com/gabyross/rn-starter/blob/main/README.md#image-screen)
+[Color](https://github.com/gabyross/rn-starter/blob/main/README.md#color-screen)
+[Square](https://github.com/gabyross/rn-starter/blob/main/README.md#square-screen)
+[Box](https://github.com/gabyross/rn-starter/blob/main/README.md#box-screen)
+[Text](https://github.com/gabyross/rn-starter/blob/main/README.md#text-screen)  
 
 # Home Screen:
 
