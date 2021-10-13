@@ -1,5 +1,7 @@
 # rn-starter
 React project  
+- node.js version: 12.18.3
+- npm version: 6.14.6
   
 
 # Steps to get into this project
